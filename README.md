@@ -6,7 +6,7 @@ Overview
 
 The first 6 parts are currently available:
 
-1. [Symfony2 Configuration and Templating](https://github.com/FullSpeedInc/symblog-docs/blob/master/docs/configuration-and-templating.rst
+1. [Symfony2 Configuration and Templating](https://github.com/FullSpeedInc/symblog-docs/blob/master/docs/configuration-and-templating.rst)
 2. [Contact Page: Validators, Forms and Emailing](https://github.com/FullSpeedInc/symblog-docs/blob/master/docs/validators-and-forms.rst)
 3. [The Blog Model: Using Doctrine 2 and Data Fixtures](https://github.com/FullSpeedInc/symblog-docs/blob/master/docs/doctrine-2-the-blog-model.rst)
 4. [The Comments Model: Adding comments, Doctrine Repositories and Migrations](https://github.com/FullSpeedInc/symblog-docs/blob/master/docs/extending-the-model-blog-comments.rst)
